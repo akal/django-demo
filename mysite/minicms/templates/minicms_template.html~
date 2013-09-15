@@ -6,6 +6,11 @@
 </head>
 
 <body>
-<h1>This is mysite site.</h1>
+<h1>Minicms template</h1>
+
+{{}}
+
+
+
 
 </body> </html>

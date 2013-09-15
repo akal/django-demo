@@ -1,0 +1,4 @@
+urlpatterns = patterns(
+    '',
+    url(r'^/', 'views.minicms')
+)
