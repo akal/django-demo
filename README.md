@@ -1,21 +1,14 @@
 django-demo
 ===========
 
-Material for a presentation on django basics
+* MiniCMS app:
+
+Demoes a minimal cms functionality. 
+Urls, pages, contents can be added.
+Database configured to contain one page:
+http://localhost:8000/minicms/firstpage/
 
 
-Django
-Web application framework - "sensible defaults"
-www.djangoproject.com - current version 1.6
-Development accelerating
-
-Django
-Settings
-Urls
-Models - inheritance
-
-Forms
-Templates
-
-Modelforms example
-
+* ContactForm
+Super basic contact form, based on modelform
+http://localhost:8000/contactform/form/

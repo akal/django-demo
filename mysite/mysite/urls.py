@@ -12,6 +12,7 @@ urlpatterns = patterns(
     # url(r'^mysite/', include('mysite.foo.urls')),
 
     url(r'^minicms/', include('minicms.urls')),
+    url(r'^contactform/', include('contactform.urls')),
 
     # Uncomment the admin/doc line below to enable admin documentation:
     url(r'^admin/doc/', include('django.contrib.admindocs.urls')),

@@ -1,0 +1,8 @@
+from django.forms import ModelForm
+from contactform.models import ContactRequest
+
+
+class ArticleForm(ModelForm):
+    class Meta:
+        model = Contactrequest
+
